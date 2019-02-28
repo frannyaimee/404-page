@@ -18,7 +18,7 @@
 	width: 100%;
 }
 body {
-	height: 1000px;
+	height: 800px;
 	display: block;
 	position: relative;
 	text-align: center;
@@ -64,7 +64,7 @@ div {
     /*font-size: 21px;*/
     text-align: center;
     font-size: 300%;
-	margin-top: 300px;
+	margin-top: 200px;
 	position: relative;
 
     -webkit-animation: fadein 4.5s; /* Safari, Chrome and Opera > 12.1 */
